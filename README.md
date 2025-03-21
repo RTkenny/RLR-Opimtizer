@@ -1,5 +1,5 @@
 # **Recursive Likelihood Ratio Optimizer**
-![RLR](asset/rlr1.png)
+![RLR](asset/rlr_c.png)
 
 Official implementation of the paper:  
 **Zeroth-order Informed Fine-Tuning for Diffusion Model: A Recursive Likelihood Ratio Optimizer [arXiv Preprint](https://arxiv.org/abs/2502.00639)**
