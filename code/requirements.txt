@@ -1,0 +1,11 @@
+accelerate==1.2.0
+clip @ git+https://github.com/openai/CLIP.git@dcba3cb2e2827b402d2701e7e1c7d9fed8a20ef1
+datasets==3.1.0
+einops==0.8.0
+tensorboard==2.20.0
+transformers==4.46.3
+# torch==2.1.0+cu121
+trl==0.12.2
+hpsv2x==1.2.0
+diffusers==0.31.0
+peft==0.14.0

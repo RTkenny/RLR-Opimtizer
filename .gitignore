@@ -1,2 +1,7 @@
 .idea/
+.vscode/
+code/__pycache__/
+code/logs/*
+code/checkpoints/
+*.log
 *.iml
